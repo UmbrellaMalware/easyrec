@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "easyrec"
+version = "0.1.0"
+description = ""
+authors = ["dtolmachev <danil.tolmachev@alao.ch>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+johnnydep = "^1.20.0"
+toposort = "^1.10"
+pipreqs = "^0.4.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

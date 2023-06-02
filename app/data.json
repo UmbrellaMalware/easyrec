@@ -1,0 +1,1629 @@
+{
+    "django==3.2.6": [
+        {
+            "name": "django"
+        },
+        {
+            "name": "asgiref"
+        },
+        {
+            "name": "pytz"
+        },
+        {
+            "name": "sqlparse"
+        }
+    ],
+    "aiodns==2.0.0": [
+        {
+            "name": "aiodns"
+        },
+        {
+            "name": "pycares"
+        },
+        {
+            "name": "cffi"
+        },
+        {
+            "name": "pycparser"
+        }
+    ],
+    "aiohttp==3.7.4": [
+        {
+            "name": "aiohttp"
+        },
+        {
+            "name": "async-timeout"
+        },
+        {
+            "name": "attrs"
+        },
+        {
+            "name": "chardet"
+        },
+        {
+            "name": "multidict"
+        },
+        {
+            "name": "typing-extensions"
+        },
+        {
+            "name": "yarl"
+        },
+        {
+            "name": "idna"
+        }
+    ],
+    "amqp==2.6.1": [
+        {
+            "name": "amqp"
+        },
+        {
+            "name": "vine"
+        }
+    ],
+    "astroid==2.4.2": [
+        {
+            "name": "astroid"
+        },
+        {
+            "name": "lazy-object-proxy"
+        },
+        {
+            "name": "six"
+        },
+        {
+            "name": "wrapt"
+        }
+    ],
+    "backcall==0.2.0": [
+        {
+            "name": "backcall"
+        }
+    ],
+    "billiard==3.6.3.0": [
+        {
+            "name": "billiard"
+        }
+    ],
+    "boto3==1.14.37": [
+        {
+            "name": "boto3"
+        },
+        {
+            "name": "botocore"
+        },
+        {
+            "name": "jmespath"
+        },
+        {
+            "name": "s3transfer"
+        },
+        {
+            "name": "docutils"
+        },
+        {
+            "name": "python-dateutil"
+        },
+        {
+            "name": "urllib3"
+        },
+        {
+            "name": "six"
+        }
+    ],
+    "botocore==1.17.37": [
+        {
+            "name": "botocore"
+        },
+        {
+            "name": "docutils"
+        },
+        {
+            "name": "jmespath"
+        },
+        {
+            "name": "python-dateutil"
+        },
+        {
+            "name": "urllib3"
+        },
+        {
+            "name": "six"
+        }
+    ],
+    "cchardet===2.1.6": [
+        {
+            "name": "cchardet"
+        }
+    ],
+    "celery==4.4.7": [],
+    "certifi==2020.6.20": [
+        {
+            "name": "certifi"
+        }
+    ],
+    "chardet==3.0.4": [
+        {
+            "name": "chardet"
+        }
+    ],
+    "cycler==0.10.0": [
+        {
+            "name": "cycler"
+        },
+        {
+            "name": "six"
+        }
+    ],
+    "decorator==4.4.2": [
+        {
+            "name": "decorator"
+        }
+    ],
+    "defusedxml==0.6.0": [
+        {
+            "name": "defusedxml"
+        }
+    ],
+    "diff-match-patch==20121119": [
+        {
+            "name": "diff-match-patch"
+        }
+    ],
+    "django-admin-sortable2==1.0": [
+        {
+            "name": "django-admin-sortable2"
+        },
+        {
+            "name": "django"
+        },
+        {
+            "name": "asgiref"
+        },
+        {
+            "name": "pytz"
+        },
+        {
+            "name": "sqlparse"
+        }
+    ],
+    "django-appconf==1.0.4": [
+        {
+            "name": "django-appconf"
+        },
+        {
+            "name": "django"
+        },
+        {
+            "name": "asgiref"
+        },
+        {
+            "name": "sqlparse"
+        }
+    ],
+    "django-cacheops==6.0": [
+        {
+            "name": "django-cacheops"
+        },
+        {
+            "name": "django"
+        },
+        {
+            "name": "funcy"
+        },
+        {
+            "name": "redis"
+        },
+        {
+            "name": "six"
+        },
+        {
+            "name": "asgiref"
+        },
+        {
+            "name": "sqlparse"
+        },
+        {
+            "name": "async-timeout"
+        }
+    ],
+    "django-ckeditor==6.0.0": [
+        {
+            "name": "django-ckeditor"
+        },
+        {
+            "name": "django-js-asset"
+        },
+        {
+            "name": "django"
+        },
+        {
+            "name": "asgiref"
+        },
+        {
+            "name": "sqlparse"
+        }
+    ],
+    "django-compat==1.0.15": [
+        {
+            "name": "django-compat"
+        },
+        {
+            "name": "six"
+        }
+    ],
+    "django-compressor==2.4": [
+        {
+            "name": "django-compressor"
+        },
+        {
+            "name": "django-appconf"
+        },
+        {
+            "name": "rcssmin"
+        },
+        {
+            "name": "rjsmin"
+        },
+        {
+            "name": "six"
+        },
+        {
+            "name": "django"
+        },
+        {
+            "name": "asgiref"
+        },
+        {
+            "name": "sqlparse"
+        }
+    ],
+    "django-extensions==3.1.0": [
+        {
+            "name": "django-extensions"
+        }
+    ],
+    "django-hijack==2.1.10": [
+        {
+            "name": "django-hijack"
+        },
+        {
+            "name": "django-compat"
+        },
+        {
+            "name": "six"
+        }
+    ],
+    "django-hijack-admin==2.1.10": [
+        {
+            "name": "django-hijack-admin"
+        },
+        {
+            "name": "django-compat"
+        },
+        {
+            "name": "django-hijack"
+        },
+        {
+            "name": "six"
+        },
+        {
+            "name": "django"
+        },
+        {
+            "name": "asgiref"
+        },
+        {
+            "name": "sqlparse"
+        }
+    ],
+    "django-imagekit==4.0.2": [
+        {
+            "name": "django-imagekit"
+        },
+        {
+            "name": "django-appconf"
+        },
+        {
+            "name": "pilkit"
+        },
+        {
+            "name": "six"
+        },
+        {
+            "name": "django"
+        },
+        {
+            "name": "asgiref"
+        },
+        {
+            "name": "sqlparse"
+        }
+    ],
+    "django-import-export==2.8.0": [
+        {
+            "name": "django-import-export"
+        },
+        {
+            "name": "django"
+        },
+        {
+            "name": "diff-match-patch"
+        },
+        {
+            "name": "tablib"
+        },
+        {
+            "name": "asgiref"
+        },
+        {
+            "name": "sqlparse"
+        },
+        {
+            "name": "markuppy"
+        },
+        {
+            "name": "odfpy"
+        },
+        {
+            "name": "openpyxl"
+        },
+        {
+            "name": "pyyaml"
+        },
+        {
+            "name": "xlrd"
+        },
+        {
+            "name": "xlwt"
+        },
+        {
+            "name": "defusedxml"
+        },
+        {
+            "name": "et-xmlfile"
+        }
+    ],
+    "django-js-asset==1.2.2": [
+        {
+            "name": "django-js-asset"
+        }
+    ],
+    "django-modeltranslation==0.17.3": [
+        {
+            "name": "django-modeltranslation"
+        },
+        {
+            "name": "django"
+        },
+        {
+            "name": "six"
+        },
+        {
+            "name": "asgiref"
+        },
+        {
+            "name": "sqlparse"
+        }
+    ],
+    "django-redis==4.12.1": [
+        {
+            "name": "django-redis"
+        },
+        {
+            "name": "django"
+        },
+        {
+            "name": "redis"
+        },
+        {
+            "name": "asgiref"
+        },
+        {
+            "name": "sqlparse"
+        },
+        {
+            "name": "async-timeout"
+        }
+    ],
+    "django-shell-plus==1.1.7": [
+        {
+            "name": "django-shell-plus"
+        }
+    ],
+    "django-storages==1.11.1": [
+        {
+            "name": "django-storages"
+        },
+        {
+            "name": "django"
+        },
+        {
+            "name": "asgiref"
+        },
+        {
+            "name": "sqlparse"
+        }
+    ],
+    "django-taggit==1.3.0": [
+        {
+            "name": "django-taggit"
+        },
+        {
+            "name": "django"
+        },
+        {
+            "name": "asgiref"
+        },
+        {
+            "name": "sqlparse"
+        }
+    ],
+    "django-user-agents==0.4.0": [
+        {
+            "name": "django-user-agents"
+        },
+        {
+            "name": "django"
+        },
+        {
+            "name": "user-agents"
+        },
+        {
+            "name": "asgiref"
+        },
+        {
+            "name": "sqlparse"
+        },
+        {
+            "name": "ua-parser"
+        }
+    ],
+    "django-cors-headers==3.13.0": [
+        {
+            "name": "django-cors-headers"
+        },
+        {
+            "name": "django"
+        },
+        {
+            "name": "asgiref"
+        },
+        {
+            "name": "sqlparse"
+        }
+    ],
+    "djangorestframework==3.12.2": [
+        {
+            "name": "djangorestframework"
+        },
+        {
+            "name": "django"
+        },
+        {
+            "name": "asgiref"
+        },
+        {
+            "name": "sqlparse"
+        }
+    ],
+    "docutils==0.15.2": [
+        {
+            "name": "docutils"
+        }
+    ],
+    "et-xmlfile==1.0.1": [
+        {
+            "name": "et-xmlfile"
+        }
+    ],
+    "factory-boy==2.12.0": [
+        {
+            "name": "factory-boy"
+        },
+        {
+            "name": "faker"
+        },
+        {
+            "name": "python-dateutil"
+        },
+        {
+            "name": "six"
+        }
+    ],
+    "Faker==5.4.0": [
+        {
+            "name": "faker"
+        },
+        {
+            "name": "python-dateutil"
+        },
+        {
+            "name": "text-unidecode"
+        },
+        {
+            "name": "six"
+        }
+    ],
+    "flower==0.9.5": [
+        {
+            "name": "flower"
+        },
+        {
+            "name": "celery"
+        },
+        {
+            "name": "humanize"
+        },
+        {
+            "name": "prometheus-client"
+        },
+        {
+            "name": "pytz"
+        },
+        {
+            "name": "tornado"
+        },
+        {
+            "name": "billiard"
+        },
+        {
+            "name": "click-didyoumean"
+        },
+        {
+            "name": "click-plugins"
+        },
+        {
+            "name": "click-repl"
+        },
+        {
+            "name": "click"
+        },
+        {
+            "name": "kombu"
+        },
+        {
+            "name": "vine"
+        },
+        {
+            "name": "prompt-toolkit"
+        },
+        {
+            "name": "six"
+        },
+        {
+            "name": "amqp"
+        },
+        {
+            "name": "wcwidth"
+        }
+    ],
+    "freezegun==1.1.0": [
+        {
+            "name": "freezegun"
+        },
+        {
+            "name": "python-dateutil"
+        },
+        {
+            "name": "six"
+        }
+    ],
+    "funcy==1.14": [
+        {
+            "name": "funcy"
+        }
+    ],
+    "fuzzywuzzy==0.18.0": [
+        {
+            "name": "fuzzywuzzy"
+        }
+    ],
+    "gevent==21.8.0": [
+        {
+            "name": "gevent"
+        },
+        {
+            "name": "greenlet"
+        },
+        {
+            "name": "setuptools"
+        },
+        {
+            "name": "zope-event"
+        },
+        {
+            "name": "zope-interface"
+        }
+    ],
+    "greenlet==1.1.1": [
+        {
+            "name": "greenlet"
+        }
+    ],
+    "gunicorn==20.1.0": [
+        {
+            "name": "gunicorn"
+        },
+        {
+            "name": "setuptools"
+        }
+    ],
+    "hubspot-api-client==4.0.1": [
+        {
+            "name": "hubspot-api-client"
+        },
+        {
+            "name": "certifi"
+        },
+        {
+            "name": "python-dateutil"
+        },
+        {
+            "name": "six"
+        },
+        {
+            "name": "urllib3"
+        }
+    ],
+    "humanize==2.5.0": [
+        {
+            "name": "humanize"
+        }
+    ],
+    "idna==2.10": [
+        {
+            "name": "idna"
+        }
+    ],
+    "ipython==7.17.0": [
+        {
+            "name": "ipython"
+        },
+        {
+            "name": "backcall"
+        },
+        {
+            "name": "decorator"
+        },
+        {
+            "name": "jedi"
+        },
+        {
+            "name": "pexpect"
+        },
+        {
+            "name": "pickleshare"
+        },
+        {
+            "name": "prompt-toolkit"
+        },
+        {
+            "name": "pygments"
+        },
+        {
+            "name": "setuptools"
+        },
+        {
+            "name": "traitlets"
+        },
+        {
+            "name": "parso"
+        },
+        {
+            "name": "ptyprocess"
+        },
+        {
+            "name": "wcwidth"
+        }
+    ],
+    "ipython-genutils==0.2.0": [
+        {
+            "name": "ipython-genutils"
+        }
+    ],
+    "isort==4.3.21": [
+        {
+            "name": "isort"
+        }
+    ],
+    "jdcal==1.4.1": [
+        {
+            "name": "jdcal"
+        }
+    ],
+    "jedi==0.17.2": [
+        {
+            "name": "jedi"
+        },
+        {
+            "name": "parso"
+        }
+    ],
+    "jmespath==0.10.0": [
+        {
+            "name": "jmespath"
+        }
+    ],
+    "joblib==0.16.0": [
+        {
+            "name": "joblib"
+        }
+    ],
+    "kiwisolver==1.2.0": [
+        {
+            "name": "kiwisolver"
+        }
+    ],
+    "kombu==4.6.11": [
+        {
+            "name": "kombu"
+        },
+        {
+            "name": "amqp"
+        },
+        {
+            "name": "vine"
+        }
+    ],
+    "lazy-object-proxy==1.4.3": [
+        {
+            "name": "lazy-object-proxy"
+        }
+    ],
+    "lml==0.0.9": [
+        {
+            "name": "lml"
+        }
+    ],
+    "lxml==4.6.3": [
+        {
+            "name": "lxml"
+        }
+    ],
+    "MarkupPy==1.14": [
+        {
+            "name": "markuppy"
+        }
+    ],
+    "matplotlib==3.3.0": [
+        {
+            "name": "matplotlib"
+        },
+        {
+            "name": "cycler"
+        },
+        {
+            "name": "kiwisolver"
+        },
+        {
+            "name": "numpy"
+        },
+        {
+            "name": "pillow"
+        },
+        {
+            "name": "pyparsing"
+        },
+        {
+            "name": "python-dateutil"
+        },
+        {
+            "name": "six"
+        }
+    ],
+    "mccabe==0.6.1": [
+        {
+            "name": "mccabe"
+        }
+    ],
+    "networkx==2.4": [
+        {
+            "name": "networkx"
+        },
+        {
+            "name": "decorator"
+        }
+    ],
+    "odfpy==1.4.1": [
+        {
+            "name": "odfpy"
+        },
+        {
+            "name": "defusedxml"
+        }
+    ],
+    "openpyxl==3.0.4": [
+        {
+            "name": "openpyxl"
+        },
+        {
+            "name": "et-xmlfile"
+        },
+        {
+            "name": "jdcal"
+        }
+    ],
+    "parso==0.7.1": [
+        {
+            "name": "parso"
+        }
+    ],
+    "pexpect==4.8.0": [
+        {
+            "name": "pexpect"
+        },
+        {
+            "name": "ptyprocess"
+        }
+    ],
+    "prompt-toolkit==3.0.5": [
+        {
+            "name": "prompt-toolkit"
+        },
+        {
+            "name": "wcwidth"
+        }
+    ],
+    "psycopg2-binary==2.9.1": [
+        {
+            "name": "psycopg2-binary"
+        }
+    ],
+    "ptyprocess==0.6.0": [
+        {
+            "name": "ptyprocess"
+        }
+    ],
+    "Pygments==2.6.1": [
+        {
+            "name": "pygments"
+        }
+    ],
+    "pyparsing==2.4.7": [
+        {
+            "name": "pyparsing"
+        }
+    ],
+    "python-dateutil==2.8.1": [
+        {
+            "name": "python-dateutil"
+        },
+        {
+            "name": "six"
+        }
+    ],
+    "python-Levenshtein==0.12.2": [
+        {
+            "name": "python-levenshtein"
+        },
+        {
+            "name": "setuptools"
+        }
+    ],
+    "pytz==2020.1": [
+        {
+            "name": "pytz"
+        }
+    ],
+    "PyWavelets==1.1.1": [],
+    "PyYAML==5.3.1": [
+        {
+            "name": "pyyaml"
+        }
+    ],
+    "rcssmin==1.0.6": [
+        {
+            "name": "rcssmin"
+        }
+    ],
+    "redis==3.5.3": [
+        {
+            "name": "redis"
+        }
+    ],
+    "requests==2.24.0": [
+        {
+            "name": "requests"
+        },
+        {
+            "name": "certifi"
+        },
+        {
+            "name": "chardet"
+        },
+        {
+            "name": "idna"
+        },
+        {
+            "name": "urllib3"
+        }
+    ],
+    "rjsmin==1.1.0": [
+        {
+            "name": "rjsmin"
+        }
+    ],
+    "s3transfer==0.3.3": [
+        {
+            "name": "s3transfer"
+        },
+        {
+            "name": "botocore"
+        },
+        {
+            "name": "jmespath"
+        },
+        {
+            "name": "python-dateutil"
+        },
+        {
+            "name": "urllib3"
+        },
+        {
+            "name": "six"
+        }
+    ],
+    "schematics==2.1.0": [
+        {
+            "name": "schematics"
+        }
+    ],
+    "schwifty==2020.11.0": [
+        {
+            "name": "schwifty"
+        },
+        {
+            "name": "iso3166"
+        },
+        {
+            "name": "pycountry"
+        },
+        {
+            "name": "setuptools"
+        }
+    ],
+    "sentry-sdk==0.16.3": [
+        {
+            "name": "sentry-sdk"
+        },
+        {
+            "name": "certifi"
+        },
+        {
+            "name": "urllib3"
+        }
+    ],
+    "# sepaxml==2.3.0": [],
+    "git+https://github.com/borismu/python-sepaxml@feature/adding-address-to-transactions": [],
+    "six==1.15.0": [
+        {
+            "name": "six"
+        }
+    ],
+    "sqlparse==0.3.1": [
+        {
+            "name": "sqlparse"
+        }
+    ],
+    "tablib==3.0.0": [
+        {
+            "name": "tablib"
+        }
+    ],
+    "text-unidecode==1.3": [
+        {
+            "name": "text-unidecode"
+        }
+    ],
+    "threadpoolctl==2.1.0": [
+        {
+            "name": "threadpoolctl"
+        }
+    ],
+    "tifffile==2020.7.24": [
+        {
+            "name": "tifffile"
+        },
+        {
+            "name": "numpy"
+        }
+    ],
+    "toml==0.10.1": [
+        {
+            "name": "toml"
+        }
+    ],
+    "tornado==6.0.4": [
+        {
+            "name": "tornado"
+        }
+    ],
+    "traitlets==4.3.3": [
+        {
+            "name": "traitlets"
+        },
+        {
+            "name": "decorator"
+        },
+        {
+            "name": "ipython-genutils"
+        },
+        {
+            "name": "six"
+        }
+    ],
+    "twilio==6.44.2": [
+        {
+            "name": "twilio"
+        },
+        {
+            "name": "pyjwt"
+        },
+        {
+            "name": "pytz"
+        },
+        {
+            "name": "requests"
+        },
+        {
+            "name": "six"
+        },
+        {
+            "name": "certifi"
+        },
+        {
+            "name": "charset-normalizer"
+        },
+        {
+            "name": "idna"
+        },
+        {
+            "name": "urllib3"
+        }
+    ],
+    "ua-parser==0.10.0": [
+        {
+            "name": "ua-parser"
+        }
+    ],
+    "urllib3==1.25.10": [
+        {
+            "name": "urllib3"
+        }
+    ],
+    "user-agents==2.1": [
+        {
+            "name": "user-agents"
+        },
+        {
+            "name": "ua-parser"
+        }
+    ],
+    "vine==1.3.0": [
+        {
+            "name": "vine"
+        }
+    ],
+    "wcwidth==0.2.5": [
+        {
+            "name": "wcwidth"
+        }
+    ],
+    "wrapt==1.12.1": [
+        {
+            "name": "wrapt"
+        }
+    ],
+    "xmltodict==0.12.0": [
+        {
+            "name": "xmltodict"
+        }
+    ],
+    "zope.event==4.4": [
+        {
+            "name": "zope-event"
+        },
+        {
+            "name": "setuptools"
+        }
+    ],
+    "zope.interface==5.1.0": [
+        {
+            "name": "zope-interface"
+        },
+        {
+            "name": "setuptools"
+        }
+    ],
+    "PyPDF2==1.26.0": [
+        {
+            "name": "pypdf2"
+        }
+    ],
+    "slate3k==0.5.3": [
+        {
+            "name": "slate3k"
+        },
+        {
+            "name": "pdfminer3k"
+        },
+        {
+            "name": "ply"
+        }
+    ],
+    "django-two-factor-auth==1.13": [
+        {
+            "name": "django-two-factor-auth"
+        },
+        {
+            "name": "django"
+        },
+        {
+            "name": "django-formtools"
+        },
+        {
+            "name": "django-otp"
+        },
+        {
+            "name": "django-phonenumber-field"
+        },
+        {
+            "name": "qrcode"
+        },
+        {
+            "name": "asgiref"
+        },
+        {
+            "name": "sqlparse"
+        },
+        {
+            "name": "babel"
+        },
+        {
+            "name": "six"
+        }
+    ],
+    "phonenumbers==8.12.18": [
+        {
+            "name": "phonenumbers"
+        }
+    ],
+    "facebook_business==12.0.1": [
+        {
+            "name": "facebook-business"
+        },
+        {
+            "name": "aiohttp"
+        },
+        {
+            "name": "curlify"
+        },
+        {
+            "name": "pycountry"
+        },
+        {
+            "name": "requests"
+        },
+        {
+            "name": "six"
+        },
+        {
+            "name": "aiosignal"
+        },
+        {
+            "name": "async-timeout"
+        },
+        {
+            "name": "attrs"
+        },
+        {
+            "name": "charset-normalizer"
+        },
+        {
+            "name": "frozenlist"
+        },
+        {
+            "name": "multidict"
+        },
+        {
+            "name": "yarl"
+        },
+        {
+            "name": "setuptools"
+        },
+        {
+            "name": "certifi"
+        },
+        {
+            "name": "idna"
+        },
+        {
+            "name": "urllib3"
+        }
+    ],
+    "django-admin-logs==1.0.2": [
+        {
+            "name": "django-admin-logs"
+        },
+        {
+            "name": "django"
+        },
+        {
+            "name": "asgiref"
+        },
+        {
+            "name": "sqlparse"
+        }
+    ],
+    "google-auth==1.33.1": [
+        {
+            "name": "google-auth"
+        },
+        {
+            "name": "cachetools"
+        },
+        {
+            "name": "pyasn1-modules"
+        },
+        {
+            "name": "rsa"
+        },
+        {
+            "name": "setuptools"
+        },
+        {
+            "name": "six"
+        },
+        {
+            "name": "pyasn1"
+        }
+    ],
+    "google-auth-oauthlib==0.4.4": [
+        {
+            "name": "google-auth-oauthlib"
+        },
+        {
+            "name": "google-auth"
+        },
+        {
+            "name": "requests-oauthlib"
+        },
+        {
+            "name": "cachetools"
+        },
+        {
+            "name": "pyasn1-modules"
+        },
+        {
+            "name": "rsa"
+        },
+        {
+            "name": "six"
+        },
+        {
+            "name": "urllib3"
+        },
+        {
+            "name": "oauthlib"
+        },
+        {
+            "name": "requests"
+        },
+        {
+            "name": "pyasn1"
+        },
+        {
+            "name": "certifi"
+        },
+        {
+            "name": "charset-normalizer"
+        },
+        {
+            "name": "idna"
+        }
+    ],
+    "gspread==3.7.0": [
+        {
+            "name": "gspread"
+        },
+        {
+            "name": "google-auth-oauthlib"
+        },
+        {
+            "name": "google-auth"
+        },
+        {
+            "name": "requests-oauthlib"
+        },
+        {
+            "name": "cachetools"
+        },
+        {
+            "name": "pyasn1-modules"
+        },
+        {
+            "name": "rsa"
+        },
+        {
+            "name": "six"
+        },
+        {
+            "name": "urllib3"
+        },
+        {
+            "name": "oauthlib"
+        },
+        {
+            "name": "requests"
+        },
+        {
+            "name": "pyasn1"
+        },
+        {
+            "name": "certifi"
+        },
+        {
+            "name": "charset-normalizer"
+        },
+        {
+            "name": "idna"
+        }
+    ],
+    "stripe==2.60.0": [
+        {
+            "name": "stripe"
+        },
+        {
+            "name": "requests"
+        },
+        {
+            "name": "certifi"
+        },
+        {
+            "name": "charset-normalizer"
+        },
+        {
+            "name": "idna"
+        },
+        {
+            "name": "urllib3"
+        }
+    ],
+    "memoization==0.4.0": [
+        {
+            "name": "memoization"
+        }
+    ],
+    "pandas==1.3.3": [
+        {
+            "name": "pandas"
+        },
+        {
+            "name": "numpy"
+        },
+        {
+            "name": "python-dateutil"
+        },
+        {
+            "name": "pytz"
+        },
+        {
+            "name": "six"
+        }
+    ],
+    "numpy==1.20.0": [],
+    "pysftp==0.2.9": [
+        {
+            "name": "pysftp"
+        },
+        {
+            "name": "paramiko"
+        },
+        {
+            "name": "bcrypt"
+        },
+        {
+            "name": "cryptography"
+        },
+        {
+            "name": "pynacl"
+        },
+        {
+            "name": "cffi"
+        },
+        {
+            "name": "pycparser"
+        }
+    ],
+    "google-api-python-client==2.42.0": [
+        {
+            "name": "google-api-python-client"
+        },
+        {
+            "name": "google-api-core"
+        },
+        {
+            "name": "google-auth-httplib2"
+        },
+        {
+            "name": "google-auth"
+        },
+        {
+            "name": "httplib2"
+        },
+        {
+            "name": "uritemplate"
+        },
+        {
+            "name": "googleapis-common-protos"
+        },
+        {
+            "name": "protobuf"
+        },
+        {
+            "name": "requests"
+        },
+        {
+            "name": "six"
+        },
+        {
+            "name": "cachetools"
+        },
+        {
+            "name": "pyasn1-modules"
+        },
+        {
+            "name": "rsa"
+        },
+        {
+            "name": "urllib3"
+        },
+        {
+            "name": "pyparsing"
+        },
+        {
+            "name": "certifi"
+        },
+        {
+            "name": "charset-normalizer"
+        },
+        {
+            "name": "idna"
+        },
+        {
+            "name": "pyasn1"
+        }
+    ],
+    "google-auth-httplib2==0.1.0": [
+        {
+            "name": "google-auth-httplib2"
+        },
+        {
+            "name": "google-auth"
+        },
+        {
+            "name": "httplib2"
+        },
+        {
+            "name": "six"
+        },
+        {
+            "name": "cachetools"
+        },
+        {
+            "name": "pyasn1-modules"
+        },
+        {
+            "name": "rsa"
+        },
+        {
+            "name": "urllib3"
+        },
+        {
+            "name": "pyparsing"
+        },
+        {
+            "name": "pyasn1"
+        }
+    ],
+    "django-silk==4.3.0": [
+        {
+            "name": "django-silk"
+        },
+        {
+            "name": "django"
+        },
+        {
+            "name": "jinja2"
+        },
+        {
+            "name": "autopep8"
+        },
+        {
+            "name": "gprof2dot"
+        },
+        {
+            "name": "python-dateutil"
+        },
+        {
+            "name": "pytz"
+        },
+        {
+            "name": "requests"
+        },
+        {
+            "name": "sqlparse"
+        },
+        {
+            "name": "asgiref"
+        },
+        {
+            "name": "markupsafe"
+        },
+        {
+            "name": "pycodestyle"
+        },
+        {
+            "name": "tomli"
+        },
+        {
+            "name": "six"
+        },
+        {
+            "name": "certifi"
+        },
+        {
+            "name": "charset-normalizer"
+        },
+        {
+            "name": "idna"
+        },
+        {
+            "name": "urllib3"
+        }
+    ],
+    "qrcode[pil]==6.1": [
+        {
+            "name": "qrcode"
+        },
+        {
+            "name": "pillow"
+        },
+        {
+            "name": "six"
+        }
+    ],
+    "marshmallow==3.15.0": [
+        {
+            "name": "marshmallow"
+        },
+        {
+            "name": "packaging"
+        }
+    ],
+    "apispec==5.1.1": [
+        {
+            "name": "apispec"
+        }
+    ],
+    "fpdf==1.7.2": [
+        {
+            "name": "fpdf"
+        }
+    ],
+    "django-debug-toolbar==3.7.0": [
+        {
+            "name": "django-debug-toolbar"
+        },
+        {
+            "name": "django"
+        },
+        {
+            "name": "sqlparse"
+        },
+        {
+            "name": "asgiref"
+        }
+    ]
+}
